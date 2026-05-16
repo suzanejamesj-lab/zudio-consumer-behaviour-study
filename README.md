@@ -1,29 +1,41 @@
-# zudio-consumer-behaviour-study
-Consumer behaviour and brand perception case study on Zudio — based on primary data from 53 respondents covering shopping patterns, satisfaction levels, and brand positioning.
 # Zudio — Consumer Behaviour & Brand Perception Study
+### Primary research case study | 53 real shoppers surveyed
 
-A primary research case study analyzing customer perception, buying behaviour, 
-and satisfaction towards Zudio, a fast-fashion retail brand in India.
+## Why Zudio?
+Zudio scaled rapidly across India by targeting price-sensitive, 
+trend-conscious consumers. But who exactly is their customer, 
+what do they buy, and where is the brand falling short?
+I went and found out.
 
-## Overview
-
-- 53 respondents surveyed via structured questionnaire (Google Forms)
-- Covers demographics, shopping frequency, spending patterns, and brand perception
-- Data analyzed using percentage analysis with charts and tables
+## What I Did
+- Designed a 25-question structured survey from scratch
+- Collected primary data from 53 real Zudio shoppers
+- Segmented respondents by demographics, spending, 
+  and shopping behaviour
+- Delivered a full analyst report with CRM recommendations
 
 ## Key Findings
+- 86.8% of shoppers are aged 18-25 — highly concentrated 
+  young adult base
+- 64.2% perceive Zudio as affordable; 62.3% rate it better 
+  than competitors
+- Women's wear dominates at 38% of purchases
+- 47.2% spend ₹1,500-₹3,000 per visit
+- 63% satisfied or very satisfied overall
+- Pain points: billing delays, limited sizes, product durability
 
-- 86.8% of respondents fall in the 18–25 age group — Zudio's core demographic
-- 64.2% perceive Zudio as an affordable brand; 62.3% rate it better than competitors
-- Women's wear (38%) is the most preferred category
-- 63% of customers are satisfied or very satisfied overall
-- Key improvement areas: billing efficiency, size availability, product durability
+## Business Recommendations
+- Expand plus-size range to capture untapped segment
+- Improve billing efficiency during peak hours
+- Introduce loyalty program to convert occasional shoppers 
+  to monthly buyers
+- Male segment (17%) underserved — opportunity for targeted 
+  campaigns
 
-## Methodology
+## Tools & Method
+Google Forms · Google Sheets · Percentage Analysis · 
+Data Visualization
 
-Primary data · Structured questionnaire · Google Forms · Percentage analysis
-
-## About
-
+## Author
 **Suzane J**
-[LinkedIn](https://www.linkedin.com/in/suzanejames) · suzanejjames@gmail.com
+[LinkedIn](linkedin.com/in/suzanejames) · suzanejjames@gmail.com
